@@ -10,7 +10,8 @@ post_limit: 5
 	<a href="{{ post.url }}">read more</a>
 </article>
 {% endfor %}
-
+<br>
+<section>
 [Archive](/archive)
-
+</section>
 
