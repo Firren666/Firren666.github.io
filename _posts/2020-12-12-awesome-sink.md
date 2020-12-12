@@ -1,5 +1,6 @@
 ---
 title: "Awesome sink"
+categories: Satisfactory
 ---
 
 # Awesome sink
