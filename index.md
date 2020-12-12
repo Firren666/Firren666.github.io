@@ -4,10 +4,11 @@ post_limit: 5
 
 
 {% for post in site.posts %}
-<div>
+<article>
 	{{ post.excerpt }}
+	<br>
 	<a href="{{ post.url }}">read more</a>
-</div>
+</article>
 {% endfor %}
 
 [Archive](/archive)
