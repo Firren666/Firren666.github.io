@@ -9,10 +9,10 @@ Stycke 1
 ### Latest posts
 
 {% for post in site.posts %}
-
+<div>
 	<a href="{{ post.url }}">{{ post.title }}</a>
-	<div>{{ post.excerpt }}</div>
-	
+	{{ post.excerpt }}
+</div>
 {% endfor %}
 
 ### All posts
