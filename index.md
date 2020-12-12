@@ -9,7 +9,7 @@ Stycke 1
 ### Latest posts
 
 {% for post in site.posts limit:post_limit %}
-	{{post.content}}
+	{{ post.content }}
 {% endfor %}
 
 ### All posts
