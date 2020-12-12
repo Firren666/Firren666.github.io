@@ -2,7 +2,6 @@
 post_limit: 5
 ---
 
-# Firrens bravader!
 
 {% for post in site.posts %}
 <div>
