@@ -7,12 +7,12 @@ post_limit: 5
 <article>
 	{{ post.excerpt }}
 	<br>
-	<a href="{{ post.url }}">read more</a>
+	<a href="{{ post.url }}">Läs mer</a>
 </article>
 {% endfor %}
 <br>
 
 
-[Archive](/archive)
+[Arkiv](/archive)
 
 
