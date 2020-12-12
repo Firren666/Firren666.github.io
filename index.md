@@ -11,7 +11,7 @@ Stycke 1
 {% for post in site.posts %}
 <div>
 	<a href="{{ post.url }}">{{ post.title }}</a>
-	{{ post.excerpt }}
+	{{ post.content }}
 </div>
 {% endfor %}
 
