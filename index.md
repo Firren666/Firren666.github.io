@@ -8,7 +8,7 @@ Stycke 1
 
 
 {% for post in site.posts limit:post_limit %}
-	{{ post }}
+	{% include_relative post.path %}
 {% endfor %}
 
 
