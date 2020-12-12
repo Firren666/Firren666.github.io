@@ -8,9 +8,14 @@ Stycke 1
 
 ### Latest posts
 
-{% for post in site.posts limit:post_limit %}
-	{{ post.content }}
-{% endfor %}
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
 
 ### All posts
 
