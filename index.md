@@ -2,11 +2,7 @@
 post_limit: 5
 ---
 
-## Rubrik
-
-Stycke 1
-
-### Latest posts
+## Oh hello!
 
 {% for post in site.posts %}
 <div>
@@ -15,12 +11,6 @@ Stycke 1
 </div>
 {% endfor %}
 
-### All posts
+[Articles](/archive)
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+
