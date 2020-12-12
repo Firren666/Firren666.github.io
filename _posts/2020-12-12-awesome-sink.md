@@ -12,7 +12,5 @@ I brist på annat så skickade jag in allt material i sinken.
 
 <!--more-->
 
-Snart så rasade biljetterna in på kontot och med varje biljett ett till problem i produktionen! Amazing!
-
-
+Snart så rasade biljetterna in på kontot, wiiiie! Senare visade det sig dock att för varje biljett som trillat in så hade det skapats två problem i produktionen... 
 
