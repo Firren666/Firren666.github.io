@@ -2,7 +2,7 @@
 post_limit: 5
 ---
 
-## Oh hello!
+# Firrens bravader!
 
 {% for post in site.posts %}
 <div>
