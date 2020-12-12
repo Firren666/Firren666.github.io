@@ -11,7 +11,8 @@ post_limit: 5
 </article>
 {% endfor %}
 <br>
-<section>
+
+
 [Archive](/archive)
-</section>
+
 
