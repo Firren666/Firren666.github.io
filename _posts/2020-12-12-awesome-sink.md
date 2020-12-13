@@ -1,5 +1,5 @@
 ---
-title: "Awesome sink"
+title: "Så får du mera tickets"
 categories: Satisfactory
 excerpt_separator: <!--more-->
 ---
