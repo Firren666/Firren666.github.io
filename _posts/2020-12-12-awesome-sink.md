@@ -1,10 +1,10 @@
 ---
-title: "Så får du fler tickets"
+title: "Så får du fler tickets i Satisfactory"
 categories: Satisfactory
 excerpt_separator: <!--more-->
 ---
 
-# Så får du fler tickets
+# Så får du fler tickets i Satisfactory
 
 Tickets, massor med tickets! 
 
