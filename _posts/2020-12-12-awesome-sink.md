@@ -4,7 +4,7 @@ categories: Satisfactory
 excerpt_separator: <!--more-->
 ---
 
-# Awesome sink
+# Så får du mera tickets
 
 Tickets, massor med tickets! 
 
