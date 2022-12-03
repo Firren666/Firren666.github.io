@@ -1,6 +1,8 @@
 theme: minima
 title: "Firrens Bravader"
 
+show_excerpts: true
+
 header_pages:
   - index.md
   - about.md
