@@ -22,7 +22,8 @@ minima:
 # - about.md
 
 # Build settings
-remote_theme: jekyll/minima
+#remote_theme: jekyll/minima
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
 
 plugins:
   - jekyll-feed
