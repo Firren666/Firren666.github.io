@@ -1,8 +1,7 @@
 ---
-layout: home
 ---
 
-My content
+##{{ site.title }}
 
 
 [Arkiv](/archive)
