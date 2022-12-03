@@ -1,5 +1,5 @@
 ---
-title: My Title
+title: Home
 ---
 
 ## This is a h2 title
