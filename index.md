@@ -2,7 +2,6 @@
 layout: home
 ---
 
-## Header
 My content
 
 
