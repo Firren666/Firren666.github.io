@@ -1,4 +1,10 @@
-Some page content
+---
+layout: home
+title: Welcome!
+---
+
+## Header
+My content
 
 
 [Arkiv](/archive)
