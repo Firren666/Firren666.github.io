@@ -1,7 +1,7 @@
 title: Another ditch
-author:
-  name: David Johansson
-  email: noreply@github.com
+#author:
+#  name: 
+#  email: 
 description: > # this means to ignore newlines until "show_excerpts:"
   Just another useless blog.
 
