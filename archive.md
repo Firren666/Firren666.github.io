@@ -2,7 +2,6 @@
 title: Archive
 layout: page
 ---
-# Archive
 ## Test
 <ul>
   {% for post in site.posts %}
