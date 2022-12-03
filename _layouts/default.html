@@ -21,10 +21,11 @@
       
       <div id="header">
         <nav>
+          <ul>
             {% for page in site.pages %}
-              <li class="fork"><a href="{{page.url}}">page.title</a></li>
+              <li class="nav"><a href="{{page.url}}">page.title</a></li>
             {% endfor %}
-            <li class="fork"><a href="about">Custom About</a></li>
+          </ul>
           <!--
           <li class="fork"><a href="https://www.youtube.com/channel/UC-TP8W4evIORnLL49OQk9iQ">YouTube</a></li>
           {% if site.show_downloads %}
@@ -33,6 +34,7 @@
             <li class="title">DOWNLOADS</li>
           {% endif %}
           -->
+            
         </nav>
       </div>
       
