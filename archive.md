@@ -1,8 +1,8 @@
 ---
-title: Archive
 layout: page
+title: Archive
+permalink: /archive/
 ---
-## Test
 <ul>
   {% for post in site.posts %}
     <li>
