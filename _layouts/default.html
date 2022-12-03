@@ -21,7 +21,19 @@
       
       <div id="header">
         <nav>
-          <li><a href="about.html">About</a></li>
+          {% if site.data.navigation %}
+          <nav class="nav">
+            <ul class="nav-list">
+            {% for item in site.data.navigation %}
+              <li class="nav-item">
+                <a href="{{ item.url | relative_url }}" class="{% if page.url == item.url %}current{% endif %}">
+                  {{ item.title }}
+                </a>
+              </li>
+            {% endfor %}
+            </ul>
+          </nav>
+        {% endif %}
             
           <!--
           <li class="fork"><a href="https://www.youtube.com/channel/UC-TP8W4evIORnLL49OQk9iQ">YouTube</a></li>
