@@ -1,4 +1,6 @@
 ---
+title: Archive
+layout: page
 ---
 
 <ul>
