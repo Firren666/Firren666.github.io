@@ -1,7 +1,6 @@
 ---
 layout: home
-excerpt: "A simple and clean responsive Jekyll theme for words and photos."
+limit: 10
 show_excerpts: true
-paginate: true
 entries_layout: list
 ---
