@@ -6,6 +6,6 @@ collection: recipes
 entries_layout: grid
 ---
 
-{% include collection %}
+{% include documents-collection.html %}
 
 Sample document listing for the collection `_recipes`.
